@@ -16,5 +16,6 @@ var myVar = "Hello, world!";
 
 - [x] Add a task list.
 - [x] Check off some checkboxes.
-- [x] Refuse to elaborate further.
-- [x] Leave.
+- [ ] Refuse to elaborate further.
+- [ ] Leave.
+- [x] Github doesn't work.
