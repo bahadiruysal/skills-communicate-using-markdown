@@ -2,3 +2,5 @@
 ## Header 2
 ###### Header 6
 I added cool headers.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
