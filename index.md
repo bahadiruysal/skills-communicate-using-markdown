@@ -13,3 +13,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Add a task list.
+- [x] Check off some checkboxes.
+- [x] Refuse to elaborate further.
+- [x] Leave.
